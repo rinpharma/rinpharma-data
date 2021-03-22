@@ -1,0 +1,18 @@
+path:
+- data.csv
+- data.rds
+rows: 19
+cols: 7
+columns:
+  name: character
+  role: character
+  custom_link: character
+  linkedin: character
+  organising_comm: logical
+  exec_comm: logical
+  program_comm: logical
+description: Full proceedings data
+type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds

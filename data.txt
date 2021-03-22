@@ -10,3 +10,9 @@
   cols: 11
   description: Full proceedings data
   type: table
+- path: organising-team
+  name: organising-team
+  rows: 19
+  cols: 7
+  description: Full proceedings data
+  type: table

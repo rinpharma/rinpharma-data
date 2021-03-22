@@ -2,7 +2,7 @@ path:
 - data.csv
 - data.rds
 rows: 148
-cols: 11
+cols: 15
 columns:
   ID: character
   Event: character
@@ -15,6 +15,10 @@ columns:
   Title: character
   Slides: character
   Video: character
+  type: numeric
+  abstract: character
+  author: character
+  affaliations: character
 description: Full proceedings data
 type: table
 filenames:

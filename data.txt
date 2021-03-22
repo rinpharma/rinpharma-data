@@ -1,6 +1,6 @@
 - path: d-proceedings
   name: d-proceedings
   rows: 148
-  cols: 11
+  cols: 15
   description: Full proceedings data
   type: table

@@ -4,3 +4,9 @@
   cols: 15
   description: Full proceedings data
   type: table
+- path: proceedings
+  name: proceedings
+  rows: 148
+  cols: 11
+  description: Full proceedings data
+  type: table

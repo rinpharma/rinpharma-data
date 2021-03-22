@@ -1,0 +1,22 @@
+path:
+- data.csv
+- data.rds
+rows: 148
+cols: 11
+columns:
+  ID: character
+  Event: character
+  Type: character
+  Year: character
+  Date: POSIXct
+  Speaker: character
+  Affiliation: character
+  Title: character
+  Slides: character
+  Video: character
+  Abstract: character
+description: Full proceedings data
+type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds

@@ -10,3 +10,9 @@
   cols: 7
   description: Full proceedings data
   type: table
+- path: github-event-data
+  name: github-event-data
+  rows: 576
+  cols: 5
+  description: My Github activity
+  type: table

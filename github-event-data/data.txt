@@ -1,0 +1,16 @@
+path:
+- data.csv
+- data.rds
+rows: 576
+cols: 5
+columns:
+  type: character
+  date: Date
+  date_time: POSIXct
+  repo: character
+  source: character
+description: My Github activity
+type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds

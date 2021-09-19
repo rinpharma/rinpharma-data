@@ -6,7 +6,7 @@
   type: table
 - path: organising-team
   name: organising-team
-  rows: 19
+  rows: 21
   cols: 7
   description: Full proceedings data
   type: table

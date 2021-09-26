@@ -1,6 +1,6 @@
 - path: proceedings
   name: proceedings
-  rows: 148
+  rows: 181
   cols: 11
   description: Full proceedings data
   type: table

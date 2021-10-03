@@ -1,12 +1,1 @@
-- path: proceedings
-  name: proceedings
-  rows: 181
-  cols: 11
-  description: Full proceedings data
-  type: table
-- path: organising-team
-  name: organising-team
-  rows: 23
-  cols: 7
-  description: Full proceedings data
-  type: table
+/tmp/RtmpmCcRJg/file319955bc2895yml

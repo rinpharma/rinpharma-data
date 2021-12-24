@@ -12,7 +12,7 @@
   type: table
 - path: github-event-data
   name: github-event-data
-  rows: 581
-  cols: 5
-  description: My Github activity
   type: table
+  description: My Github activity
+  rows: 2346
+  cols: 5
